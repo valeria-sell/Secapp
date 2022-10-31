@@ -1,0 +1,7 @@
+Sign Up and Sign In with Thunkable and Firebase
+https://docs.thunkable.com/sign-in
+https://www.youtube.com/watch?v=tdgVeck-sOI&t=472s
+https://www.youtube.com/watch?v=LEqHkz2auaQ&t=365s
+
+Firebase and Python
+https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/
