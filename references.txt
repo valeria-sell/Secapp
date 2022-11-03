@@ -5,3 +5,12 @@ https://www.youtube.com/watch?v=LEqHkz2auaQ&t=365s
 
 Firebase and Python
 https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/
+
+Creando un API con flask_restful
+https://www.youtube.com/watch?v=s_ht4AKnWZg
+
+conectando con Firebase: 
+https://www.youtube.com/watch?v=mbg-Gg0lw9o 
+
+Para el mapa de Navegacion:
+https://developers.google.com/maps/documentation/javascript/get-api-key

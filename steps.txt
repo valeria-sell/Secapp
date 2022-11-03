@@ -1,3 +1,10 @@
 instalaciones previas:
 pip install pyrebase4
 
+Creacion de un REST API usando Flask
+1. pip install Flasks
+2. pip install flask_restful
+
+Para conectar el API con Firebase
+1. pip install firebase_admin
+2. seguir los pasos del video

@@ -1,8 +1,4 @@
-
-from flask import Flask, session, render_template, request, redirect
 import pyrebase
-
-app = Flask(__name__)
 
 config= {
   'apiKey': "AIzaSyC1WNSOM4t159pQOqPBJMam_m77KKPiZ5g",
@@ -17,7 +13,4 @@ config= {
 }
 
 firebase = pyrebase.initialize_app(config)
-auth = firebase.auth()
-
-app.secret_key = 'secret'
-#@app.route('/', methods=['POST','GET'])
+database = firebase.database
