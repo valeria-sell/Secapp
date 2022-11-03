@@ -19,9 +19,11 @@ Finalmente, para probar y utilizar la aplicación se recomienda instalar Thunkab
 
 *Prueba de la aplicación* <br>
 En la página web de Thunkable, se debe seleccionar la opción de "Live test on device".
+
 ![](resources/docu_imgs/photo_2022-11-02_22-27-23.jpg)
 
 Una vez seleccionado, se abrirá una ventana de diálogo para ingresar un código.
+
 ![](resources/docu_imgs/photo_2022-11-02_22-27-26.jpg)
 
 En la aplicación móvil se deberá seleccionar la tercera opción, 
@@ -29,3 +31,22 @@ En la aplicación móvil se deberá seleccionar la tercera opción,
 
 Ahí aparecerá el código que se debe ingresar en la página web. 
 ![](resources/docu_imgs/photo_2022-11-02_22-27-42.jpg)
+
+Ya en la aplicación móvil, se verá la pantalla de login 
+![](resources/docu_imgs/photo_2022-11-02_22-27-43.jpg)
+
+Se deberá ingresar con una cuenta existente en la base de datos, encontrados en la sección de autenticación. 
+![](resources/docu_imgs/photo_2022-11-02_22-27-40.jpg)
+
+pagina de comunidad
+![](resources/docu_imgs/photo_2022-11-02_22-27-46.jpg)
+
+si se selecciona la opción de amigos
+![](resources/docu_imgs/photo_2022-11-02_22-27-47.jpg)
+
+si se selecciona la opción de navegación
+![](resources/docu_imgs/photo_2022-11-02_22-27-47%20(2).jpg)
+
+al darle click al boton de mi ubicacion
+![](resources/docu_imgs/photo_2022-11-02_22-27-49.jpg)
+
