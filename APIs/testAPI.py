@@ -42,10 +42,14 @@ test1 = {
     "message":"Carro detenenido con vidrios polarizados. Placa 763846.", "typedLocation":"Frente a escuela Sony"},
 ]}
 
-test2 = {
-"friends":[
-    {"email":"Anna123@gmail.com"},
-]}
+newfrienddata = {
+"2ut4hpMzQYRz9S3ivSWoQRwaxvs1":   
+    { 
+    "friends":[
+        {"email":"Anna123@gmail.com", "userID": "Jo3eWPJdntZsrE0N5FUkXePRMFz1"}]
+    } 
+}
+
 class AddDanger(Resource):
     def get(self):
         return {'about':'Aqui agrego amigos a los circulos!'}

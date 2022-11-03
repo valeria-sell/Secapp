@@ -8,3 +8,5 @@ Creacion de un REST API usando Flask
 Para conectar el API con Firebase
 1. pip install firebase_admin
 2. seguir los pasos del video
+
+
