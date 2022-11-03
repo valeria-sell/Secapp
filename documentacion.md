@@ -46,6 +46,6 @@ si se selecciona la opción de amigos
 si se selecciona la opción de navegación
 ![](resources/docu_imgs/photo_2022-11-02_22-27-47%20(2).jpg)
 
-al darle click al botoncito de mi ubicacion
+al darle click al boton de mi ubicacion
 ![](resources/docu_imgs/photo_2022-11-02_22-27-49.jpg)
 
