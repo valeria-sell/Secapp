@@ -1,23 +1,23 @@
-**Doumentación de la Tarea Corta 2**
+**Documentación de la Tarea Corta 2**
 
-*Instalación*
-Se deberán instalar las siguientes librerías 
+*Instalación* <br>
+El primer paso en la instalación del ambiente y las herramientes correspondientes se da por medio de la instalación de las siguientes librerías:
 1. pip install pyrebase4
 2. pip install Flasks
 3. pip install flask_restful
 4. pip install firebase_admin
 
-Se debe crear una cuenta en Thunkable y entrar al siguiente enlace:
+Se debe crear una cuenta en Thunkable (herramienta utilizada para la creación de la aplicación móvil) y entrar al siguiente enlace:
 https://x.thunkable.com/copy/9fdd4eb4ee9ddaa72af961dd9be4f4c7
-Este corresponde a la aplicación. 
+Este corresponde a la aplicación desarrollada.
 
-Seguidamente, se debe crear una cuenta en Firebase y entrar al siguiente enlace:
+Seguidamente, se debe crear una cuenta en Firebase (herramienta utilizada para la base de datos) y entrar al siguiente enlace:
 https://secapp-bdii-default-rtdb.firebaseio.com/
 Este corresponde a la base de datos en tiempo real de firebase. 
 
-Finalmente, para probar la aplicación se recomienda instalar Thunkable Live Test en el celular.
+Finalmente, para probar y utilizar la aplicación se recomienda instalar Thunkable Live Test en el celular.
 
-*Para probar la aplicación*
+*Prueba de la aplicación* <br>
 En la página web de Thunkable, se debe seleccionar la opción de "Live test on device".
 ![](resources/docu_imgs/photo_2022-11-02_22-27-23.jpg)
 
@@ -28,4 +28,4 @@ En la aplicación móvil se deberá seleccionar la tercera opción,
 ![](resources/docu_imgs/photo_2022-11-02_22-27-41.jpg)
 
 Ahí aparecerá el código que se debe ingresar en la página web. 
- 
+![](resources/docu_imgs/photo_2022-11-02_22-27-42.jpg)
